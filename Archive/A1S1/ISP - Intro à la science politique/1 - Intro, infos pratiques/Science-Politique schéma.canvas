@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"5e689aea135187fe","x":-320,"y":-180,"width":250,"height":60,"type":"text","text":"SCIENCE"},
+		{"id":"caa7d85456ddb8df","x":-20,"y":-180,"width":250,"height":60,"type":"text","text":"POLITIQUE"},
+		{"id":"0616f61983f616b4","x":-320,"y":-120,"width":250,"height":60,"type":"text","text":"Vérité"},
+		{"id":"5e113e09422d5a75","x":-20,"y":-120,"width":250,"height":60,"type":"text","text":"Pouvoir"},
+		{"id":"d0d4650921e950b5","x":-160,"y":-20,"width":250,"height":60,"type":"text","text":"Science politique :"},
+		{"id":"c23e87cd204f44bb","x":-160,"y":40,"width":250,"height":340,"type":"text","text":"- Observe le système\n- Décrit la réalité\n- Compare les contextes\n- Analyse le fonctionnement\n- Découvre des mécanismes de causes (causaux)\n\n- Prescrit ce qui devrait être (!= ce qui est) (partie marginale de la science)"},
+		{"id":"68708650402b9d05","x":160,"y":150,"width":250,"height":60,"type":"text","text":""},
+		{"id":"69f4e0f4a7ecefea","x":160,"y":40,"width":250,"height":220,"type":"text","text":"\"Objectivité\"\n\"Rigueur (méthodologique)\"\n\"Reproductibilité (faisabilité)\"\n\"Falsifiabilité\"\n\"Fiabilité\"\n\n\"Qualité argumentative\""}
+	],
+	"edges":[
+		{"id":"970c0488f54dc025","fromNode":"0616f61983f616b4","fromSide":"bottom","toNode":"d0d4650921e950b5","toSide":"left"},
+		{"id":"7c81f34cea1b0559","fromNode":"5e113e09422d5a75","fromSide":"bottom","toNode":"d0d4650921e950b5","toSide":"right"},
+		{"id":"906f57125bb8a081","fromNode":"c23e87cd204f44bb","fromSide":"right","toNode":"69f4e0f4a7ecefea","toSide":"left"}
+	]
+}

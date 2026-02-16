@@ -1,0 +1,3252 @@
+BEGIN:VCALENDAR
+PRODID:-//University of Geneva//My course program//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+NAME:2025-2026
+X-WR-CALNAME:2025-2026
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279284@pgc.unige.ch
+DTSTART:20260430T061500Z
+DTEND:20260430T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279313@pgc.unige.ch
+DTSTART:20260521T061500Z
+DTEND:20260521T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279312@pgc.unige.ch
+DTSTART:20260507T061500Z
+DTEND:20260507T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279311@pgc.unige.ch
+DTSTART:20260430T061500Z
+DTEND:20260430T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279310@pgc.unige.ch
+DTSTART:20260423T061500Z
+DTEND:20260423T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279309@pgc.unige.ch
+DTSTART:20260416T061500Z
+DTEND:20260416T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279275@pgc.unige.ch
+DTSTART:20260219T071500Z
+DTEND:20260219T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279276@pgc.unige.ch
+DTSTART:20260226T071500Z
+DTEND:20260226T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279277@pgc.unige.ch
+DTSTART:20260305T071500Z
+DTEND:20260305T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279278@pgc.unige.ch
+DTSTART:20260312T071500Z
+DTEND:20260312T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279279@pgc.unige.ch
+DTSTART:20260319T071500Z
+DTEND:20260319T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279280@pgc.unige.ch
+DTSTART:20260326T071500Z
+DTEND:20260326T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279281@pgc.unige.ch
+DTSTART:20260402T061500Z
+DTEND:20260402T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279282@pgc.unige.ch
+DTSTART:20260416T061500Z
+DTEND:20260416T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279283@pgc.unige.ch
+DTSTART:20260423T061500Z
+DTEND:20260423T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279314@pgc.unige.ch
+DTSTART:20260528T061500Z
+DTEND:20260528T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279285@pgc.unige.ch
+DTSTART:20260507T061500Z
+DTEND:20260507T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279286@pgc.unige.ch
+DTSTART:20260521T061500Z
+DTEND:20260521T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274958-279287@pgc.unige.ch
+DTSTART:20260528T061500Z
+DTEND:20260528T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 319-21 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279302@pgc.unige.ch
+DTSTART:20260219T071500Z
+DTEND:20260219T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279303@pgc.unige.ch
+DTSTART:20260226T071500Z
+DTEND:20260226T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279304@pgc.unige.ch
+DTSTART:20260305T071500Z
+DTEND:20260305T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279305@pgc.unige.ch
+DTSTART:20260312T071500Z
+DTEND:20260312T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279306@pgc.unige.ch
+DTSTART:20260319T071500Z
+DTEND:20260319T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279307@pgc.unige.ch
+DTSTART:20260326T071500Z
+DTEND:20260326T090000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274959-279308@pgc.unige.ch
+DTSTART:20260402T061500Z
+DTEND:20260402T080000Z
+SUMMARY:Bases de données - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Philippe Glass
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271252-271123@pgc.unige.ch
+DTSTART:20251216T071500Z
+DTEND:20251216T090000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271252-271122@pgc.unige.ch
+DTSTART:20251209T071500Z
+DTEND:20251209T090000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271252-271121@pgc.unige.ch
+DTSTART:20251202T071500Z
+DTEND:20251202T090000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271252-271120@pgc.unige.ch
+DTSTART:20251125T071500Z
+DTEND:20251125T090000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271252-271119@pgc.unige.ch
+DTSTART:20251118T071500Z
+DTEND:20251118T090000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271252-271118@pgc.unige.ch
+DTSTART:20251111T071500Z
+DTEND:20251111T090000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279595@pgc.unige.ch
+DTSTART:20260220T091500Z
+DTEND:20260220T110000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279596@pgc.unige.ch
+DTSTART:20260227T091500Z
+DTEND:20260227T110000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279597@pgc.unige.ch
+DTSTART:20260306T091500Z
+DTEND:20260306T110000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279598@pgc.unige.ch
+DTSTART:20260313T091500Z
+DTEND:20260313T110000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279599@pgc.unige.ch
+DTSTART:20260320T091500Z
+DTEND:20260320T110000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279606@pgc.unige.ch
+DTSTART:20260529T081500Z
+DTEND:20260529T100000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279601@pgc.unige.ch
+DTSTART:20260417T081500Z
+DTEND:20260417T100000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279602@pgc.unige.ch
+DTSTART:20260424T081500Z
+DTEND:20260424T100000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279603@pgc.unige.ch
+DTSTART:20260508T081500Z
+DTEND:20260508T100000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279604@pgc.unige.ch
+DTSTART:20260515T081500Z
+DTEND:20260515T100000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279605@pgc.unige.ch
+DTSTART:20260522T081500Z
+DTEND:20260522T100000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274960-279600@pgc.unige.ch
+DTSTART:20260327T091500Z
+DTEND:20260327T110000Z
+SUMMARY:Algorithmique appliquée - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Meriem Benyahya
+LOCATION:BA 316-8 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278947@pgc.unige.ch
+DTSTART:20251208T091500Z
+DTEND:20251208T110000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278948@pgc.unige.ch
+DTSTART:20251215T091500Z
+DTEND:20251215T110000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278946@pgc.unige.ch
+DTSTART:20251201T091500Z
+DTEND:20251201T110000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278945@pgc.unige.ch
+DTSTART:20251124T091500Z
+DTEND:20251124T110000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278944@pgc.unige.ch
+DTSTART:20251117T091500Z
+DTEND:20251117T110000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278943@pgc.unige.ch
+DTSTART:20251110T091500Z
+DTEND:20251110T110000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278942@pgc.unige.ch
+DTSTART:20251103T091500Z
+DTEND:20251103T110000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278941@pgc.unige.ch
+DTSTART:20251027T091500Z
+DTEND:20251027T110000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278940@pgc.unige.ch
+DTSTART:20251020T081500Z
+DTEND:20251020T100000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278939@pgc.unige.ch
+DTSTART:20251013T081500Z
+DTEND:20251013T100000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278938@pgc.unige.ch
+DTSTART:20251006T081500Z
+DTEND:20251006T100000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278937@pgc.unige.ch
+DTSTART:20250929T081500Z
+DTEND:20250929T100000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278936@pgc.unige.ch
+DTSTART:20250922T081500Z
+DTEND:20250922T100000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271081-278935@pgc.unige.ch
+DTSTART:20250915T081500Z
+DTEND:20250915T100000Z
+SUMMARY:Analyse des objectifs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200013\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431611@pgc.unige.ch
+DTSTART:20260305T091500Z
+DTEND:20260305T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431612@pgc.unige.ch
+DTSTART:20260312T091500Z
+DTEND:20260312T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431610@pgc.unige.ch
+DTSTART:20260226T091500Z
+DTEND:20260226T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431633@pgc.unige.ch
+DTSTART:20260518T081500Z
+DTEND:20260518T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431632@pgc.unige.ch
+DTSTART:20260511T081500Z
+DTEND:20260511T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431631@pgc.unige.ch
+DTSTART:20260504T081500Z
+DTEND:20260504T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431630@pgc.unige.ch
+DTSTART:20260427T081500Z
+DTEND:20260427T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431629@pgc.unige.ch
+DTSTART:20260420T081500Z
+DTEND:20260420T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431628@pgc.unige.ch
+DTSTART:20260413T081500Z
+DTEND:20260413T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431627@pgc.unige.ch
+DTSTART:20260330T081500Z
+DTEND:20260330T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431626@pgc.unige.ch
+DTSTART:20260323T091500Z
+DTEND:20260323T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431625@pgc.unige.ch
+DTSTART:20260316T091500Z
+DTEND:20260316T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431624@pgc.unige.ch
+DTSTART:20260309T091500Z
+DTEND:20260309T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431623@pgc.unige.ch
+DTSTART:20260302T091500Z
+DTEND:20260302T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431613@pgc.unige.ch
+DTSTART:20260319T091500Z
+DTEND:20260319T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431614@pgc.unige.ch
+DTSTART:20260326T091500Z
+DTEND:20260326T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431615@pgc.unige.ch
+DTSTART:20260402T081500Z
+DTEND:20260402T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431616@pgc.unige.ch
+DTSTART:20260416T081500Z
+DTEND:20260416T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431617@pgc.unige.ch
+DTSTART:20260423T081500Z
+DTEND:20260423T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431618@pgc.unige.ch
+DTSTART:20260430T081500Z
+DTEND:20260430T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431619@pgc.unige.ch
+DTSTART:20260507T081500Z
+DTEND:20260507T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431620@pgc.unige.ch
+DTSTART:20260521T081500Z
+DTEND:20260521T100000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275082-431609@pgc.unige.ch
+DTSTART:20260219T091500Z
+DTEND:20260219T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431621@pgc.unige.ch
+DTSTART:20260216T091500Z
+DTEND:20260216T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275083-431622@pgc.unige.ch
+DTSTART:20260223T091500Z
+DTEND:20260223T110000Z
+SUMMARY:Inégalités en tout genre : histoires\, politique\, société - Cour
+ s
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T100007\n\nE
+ nseignant-es: Ilana Eloit\, Sélima Kebaili\, Marylene Lieber\, Clementin
+ e Rossier\, Caroline Rusterholz\, Jean-François Staszak
+LOCATION:M R290-L. Solari Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431641@pgc.unige.ch
+DTSTART:20251113T091500Z
+DTEND:20251113T110000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431643@pgc.unige.ch
+DTSTART:20251127T091500Z
+DTEND:20251127T110000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431644@pgc.unige.ch
+DTSTART:20251204T091500Z
+DTEND:20251204T110000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431645@pgc.unige.ch
+DTSTART:20251211T091500Z
+DTEND:20251211T110000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431646@pgc.unige.ch
+DTSTART:20251218T091500Z
+DTEND:20251218T110000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431634@pgc.unige.ch
+DTSTART:20250918T081500Z
+DTEND:20250918T100000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431642@pgc.unige.ch
+DTSTART:20251120T091500Z
+DTEND:20251120T110000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431636@pgc.unige.ch
+DTSTART:20251002T081500Z
+DTEND:20251002T100000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431637@pgc.unige.ch
+DTSTART:20251009T081500Z
+DTEND:20251009T100000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431638@pgc.unige.ch
+DTSTART:20251016T081500Z
+DTEND:20251016T100000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431639@pgc.unige.ch
+DTSTART:20251023T081500Z
+DTEND:20251023T100000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431640@pgc.unige.ch
+DTSTART:20251030T091500Z
+DTEND:20251030T110000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275084-431635@pgc.unige.ch
+DTSTART:20250925T081500Z
+DTEND:20250925T100000Z
+SUMMARY:Introduction à la sociologie - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T105001\n\nE
+ nseignant-es: Nicolas Baya Laffite\, Mathilde Bourrier\, Sandro Cattacin
+ \, Cornelia Hummel\, Marlyne Sahakian\, Eric Widmer
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500458@pgc.unige.ch
+DTSTART:20251208T091500Z
+DTEND:20251208T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500459@pgc.unige.ch
+DTSTART:20251215T091500Z
+DTEND:20251215T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500439@pgc.unige.ch
+DTSTART:20251029T091500Z
+DTEND:20251029T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500440@pgc.unige.ch
+DTSTART:20251105T091500Z
+DTEND:20251105T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500441@pgc.unige.ch
+DTSTART:20251112T091500Z
+DTEND:20251112T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500442@pgc.unige.ch
+DTSTART:20251119T091500Z
+DTEND:20251119T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500443@pgc.unige.ch
+DTSTART:20251126T091500Z
+DTEND:20251126T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500444@pgc.unige.ch
+DTSTART:20251203T091500Z
+DTEND:20251203T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500445@pgc.unige.ch
+DTSTART:20251210T091500Z
+DTEND:20251210T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500446@pgc.unige.ch
+DTSTART:20251217T091500Z
+DTEND:20251217T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500433@pgc.unige.ch
+DTSTART:20250917T081500Z
+DTEND:20250917T100000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500434@pgc.unige.ch
+DTSTART:20250924T081500Z
+DTEND:20250924T100000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500435@pgc.unige.ch
+DTSTART:20251001T081500Z
+DTEND:20251001T100000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500436@pgc.unige.ch
+DTSTART:20251008T081500Z
+DTEND:20251008T100000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500437@pgc.unige.ch
+DTSTART:20251015T081500Z
+DTEND:20251015T100000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271092-500438@pgc.unige.ch
+DTSTART:20251022T081500Z
+DTEND:20251022T100000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500447@pgc.unige.ch
+DTSTART:20250922T081500Z
+DTEND:20250922T100000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500448@pgc.unige.ch
+DTSTART:20250929T081500Z
+DTEND:20250929T100000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500449@pgc.unige.ch
+DTSTART:20251006T081500Z
+DTEND:20251006T100000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500450@pgc.unige.ch
+DTSTART:20251013T081500Z
+DTEND:20251013T100000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500451@pgc.unige.ch
+DTSTART:20251020T081500Z
+DTEND:20251020T100000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500452@pgc.unige.ch
+DTSTART:20251027T091500Z
+DTEND:20251027T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500453@pgc.unige.ch
+DTSTART:20251103T091500Z
+DTEND:20251103T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500454@pgc.unige.ch
+DTSTART:20251110T091500Z
+DTEND:20251110T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500455@pgc.unige.ch
+DTSTART:20251117T091500Z
+DTEND:20251117T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500456@pgc.unige.ch
+DTSTART:20251124T091500Z
+DTEND:20251124T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271093-500457@pgc.unige.ch
+DTSTART:20251201T091500Z
+DTEND:20251201T110000Z
+SUMMARY:Langages formels - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X003\n\nEn
+ seignant-es: Arnaud Casteigts
+LOCATION: A300 - De Marignac SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271253-272710@pgc.unige.ch
+DTSTART:20251217T111500Z
+DTEND:20251217T130000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271253-272709@pgc.unige.ch
+DTSTART:20251210T111500Z
+DTEND:20251210T130000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271253-272708@pgc.unige.ch
+DTSTART:20251203T111500Z
+DTEND:20251203T130000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271253-272707@pgc.unige.ch
+DTSTART:20251126T111500Z
+DTEND:20251126T130000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271253-272706@pgc.unige.ch
+DTSTART:20251119T111500Z
+DTEND:20251119T130000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271253-272705@pgc.unige.ch
+DTSTART:20251112T111500Z
+DTEND:20251112T130000Z
+SUMMARY:FND Climatic change - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-E4E150\n\nEn
+ seignant-es: Sébastien Guillet\, Markus Stoffel
+LOCATION:salle 1 66 Boulevard Carl-Vogt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455502@pgc.unige.ch
+DTSTART:20251028T111500Z
+DTEND:20251028T130000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455503@pgc.unige.ch
+DTSTART:20251111T111500Z
+DTEND:20251111T130000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455505@pgc.unige.ch
+DTSTART:20251125T111500Z
+DTEND:20251125T130000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455506@pgc.unige.ch
+DTSTART:20251202T111500Z
+DTEND:20251202T130000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455507@pgc.unige.ch
+DTSTART:20251209T111500Z
+DTEND:20251209T130000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455508@pgc.unige.ch
+DTSTART:20251216T111500Z
+DTEND:20251216T130000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455501@pgc.unige.ch
+DTSTART:20251021T101500Z
+DTEND:20251021T120000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455500@pgc.unige.ch
+DTSTART:20251014T101500Z
+DTEND:20251014T120000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455504@pgc.unige.ch
+DTSTART:20251118T111500Z
+DTEND:20251118T130000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455498@pgc.unige.ch
+DTSTART:20250930T101500Z
+DTEND:20250930T120000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455497@pgc.unige.ch
+DTSTART:20250923T101500Z
+DTEND:20250923T120000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455496@pgc.unige.ch
+DTSTART:20250916T101500Z
+DTEND:20250916T120000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275079-455499@pgc.unige.ch
+DTSTART:20251007T101500Z
+DTEND:20251007T120000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279774@pgc.unige.ch
+DTSTART:20260519T111500Z
+DTEND:20260519T130000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279773@pgc.unige.ch
+DTSTART:20260512T111500Z
+DTEND:20260512T130000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279772@pgc.unige.ch
+DTSTART:20260505T111500Z
+DTEND:20260505T130000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279771@pgc.unige.ch
+DTSTART:20260428T111500Z
+DTEND:20260428T130000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279770@pgc.unige.ch
+DTSTART:20260421T111500Z
+DTEND:20260421T130000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279769@pgc.unige.ch
+DTSTART:20260414T111500Z
+DTEND:20260414T130000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279775@pgc.unige.ch
+DTSTART:20260526T111500Z
+DTEND:20260526T130000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279767@pgc.unige.ch
+DTSTART:20260324T121500Z
+DTEND:20260324T140000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279766@pgc.unige.ch
+DTSTART:20260317T121500Z
+DTEND:20260317T140000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279765@pgc.unige.ch
+DTSTART:20260310T121500Z
+DTEND:20260310T140000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279764@pgc.unige.ch
+DTSTART:20260303T121500Z
+DTEND:20260303T140000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279763@pgc.unige.ch
+DTSTART:20260224T121500Z
+DTEND:20260224T140000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279762@pgc.unige.ch
+DTSTART:20260217T121500Z
+DTEND:20260217T140000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274961-279768@pgc.unige.ch
+DTSTART:20260331T111500Z
+DTEND:20260331T130000Z
+SUMMARY:Algorithmique appliquée - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200008\n\nE
+ nseignant-es: Ses Assistants
+LOCATION:BA 404-7 Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500321@pgc.unige.ch
+DTSTART:20251120T121500Z
+DTEND:20251120T140000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500325@pgc.unige.ch
+DTSTART:20251218T121500Z
+DTEND:20251218T140000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500324@pgc.unige.ch
+DTSTART:20251211T121500Z
+DTEND:20251211T140000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500323@pgc.unige.ch
+DTSTART:20251204T121500Z
+DTEND:20251204T140000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500322@pgc.unige.ch
+DTSTART:20251127T121500Z
+DTEND:20251127T140000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500320@pgc.unige.ch
+DTSTART:20251113T121500Z
+DTEND:20251113T140000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500319@pgc.unige.ch
+DTSTART:20251106T121500Z
+DTEND:20251106T140000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500318@pgc.unige.ch
+DTSTART:20251030T121500Z
+DTEND:20251030T140000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500317@pgc.unige.ch
+DTSTART:20251023T111500Z
+DTEND:20251023T130000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500316@pgc.unige.ch
+DTSTART:20251016T111500Z
+DTEND:20251016T130000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500315@pgc.unige.ch
+DTSTART:20251009T111500Z
+DTEND:20251009T130000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500314@pgc.unige.ch
+DTSTART:20251002T111500Z
+DTEND:20251002T130000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500312@pgc.unige.ch
+DTSTART:20250918T111500Z
+DTEND:20250918T130000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271094-500313@pgc.unige.ch
+DTSTART:20250925T111500Z
+DTEND:20250925T130000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344310@pgc.unige.ch
+DTSTART:20250919T121500Z
+DTEND:20250919T140000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344311@pgc.unige.ch
+DTSTART:20250926T121500Z
+DTEND:20250926T140000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344312@pgc.unige.ch
+DTSTART:20251003T121500Z
+DTEND:20251003T140000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344313@pgc.unige.ch
+DTSTART:20251017T121500Z
+DTEND:20251017T140000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344314@pgc.unige.ch
+DTSTART:20251024T121500Z
+DTEND:20251024T140000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344315@pgc.unige.ch
+DTSTART:20251031T131500Z
+DTEND:20251031T150000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344316@pgc.unige.ch
+DTSTART:20251114T131500Z
+DTEND:20251114T150000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344317@pgc.unige.ch
+DTSTART:20251121T131500Z
+DTEND:20251121T150000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344318@pgc.unige.ch
+DTSTART:20251128T131500Z
+DTEND:20251128T150000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344319@pgc.unige.ch
+DTSTART:20251205T131500Z
+DTEND:20251205T150000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344320@pgc.unige.ch
+DTSTART:20251212T131500Z
+DTEND:20251212T150000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:275080-344321@pgc.unige.ch
+DTSTART:20251219T131500Z
+DTEND:20251219T150000Z
+SUMMARY:Introduction à la science politique - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-T107005\n\nE
+ nseignant-es: Michele Bocchiola\, Lukas Martin Haffert\, Sandra Lavenex\
+ , Victor Luca Sanchez-Mazas\, Pascal Sciarini\, Frédéric Varone
+LOCATION:U 600 Piaget Uni-Dufour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498562@pgc.unige.ch
+DTSTART:20260218T131500Z
+DTEND:20260218T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450386@pgc.unige.ch
+DTSTART:20260527T121500Z
+DTEND:20260527T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498564@pgc.unige.ch
+DTSTART:20260304T131500Z
+DTEND:20260304T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498565@pgc.unige.ch
+DTSTART:20260311T131500Z
+DTEND:20260311T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498566@pgc.unige.ch
+DTSTART:20260318T131500Z
+DTEND:20260318T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498567@pgc.unige.ch
+DTSTART:20260325T131500Z
+DTEND:20260325T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498568@pgc.unige.ch
+DTSTART:20260401T121500Z
+DTEND:20260401T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498569@pgc.unige.ch
+DTSTART:20260408T121500Z
+DTEND:20260408T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498570@pgc.unige.ch
+DTSTART:20260415T121500Z
+DTEND:20260415T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498571@pgc.unige.ch
+DTSTART:20260429T121500Z
+DTEND:20260429T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498572@pgc.unige.ch
+DTSTART:20260506T121500Z
+DTEND:20260506T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498573@pgc.unige.ch
+DTSTART:20260513T121500Z
+DTEND:20260513T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498574@pgc.unige.ch
+DTSTART:20260520T121500Z
+DTEND:20260520T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498575@pgc.unige.ch
+DTSTART:20260527T121500Z
+DTEND:20260527T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450373@pgc.unige.ch
+DTSTART:20260218T131500Z
+DTEND:20260218T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450374@pgc.unige.ch
+DTSTART:20260225T131500Z
+DTEND:20260225T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450375@pgc.unige.ch
+DTSTART:20260304T131500Z
+DTEND:20260304T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450376@pgc.unige.ch
+DTSTART:20260311T131500Z
+DTEND:20260311T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450377@pgc.unige.ch
+DTSTART:20260318T131500Z
+DTEND:20260318T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450378@pgc.unige.ch
+DTSTART:20260325T131500Z
+DTEND:20260325T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450379@pgc.unige.ch
+DTSTART:20260401T121500Z
+DTEND:20260401T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450380@pgc.unige.ch
+DTSTART:20260415T121500Z
+DTEND:20260415T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450381@pgc.unige.ch
+DTSTART:20260422T121500Z
+DTEND:20260422T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450382@pgc.unige.ch
+DTSTART:20260429T121500Z
+DTEND:20260429T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450383@pgc.unige.ch
+DTSTART:20260506T121500Z
+DTEND:20260506T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450384@pgc.unige.ch
+DTSTART:20260513T121500Z
+DTEND:20260513T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274965-450385@pgc.unige.ch
+DTSTART:20260520T121500Z
+DTEND:20260520T140000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION:BD Amphithéâtre - 012A Battelle D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274963-498563@pgc.unige.ch
+DTSTART:20260225T131500Z
+DTEND:20260225T150000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500336@pgc.unige.ch
+DTSTART:20251127T141500Z
+DTEND:20251127T160000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500337@pgc.unige.ch
+DTSTART:20251204T141500Z
+DTEND:20251204T160000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500338@pgc.unige.ch
+DTSTART:20251211T141500Z
+DTEND:20251211T160000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500339@pgc.unige.ch
+DTSTART:20251218T141500Z
+DTEND:20251218T160000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500326@pgc.unige.ch
+DTSTART:20250918T131500Z
+DTEND:20250918T150000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500327@pgc.unige.ch
+DTSTART:20250925T131500Z
+DTEND:20250925T150000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500335@pgc.unige.ch
+DTSTART:20251120T141500Z
+DTEND:20251120T160000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500329@pgc.unige.ch
+DTSTART:20251009T131500Z
+DTEND:20251009T150000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500330@pgc.unige.ch
+DTSTART:20251016T131500Z
+DTEND:20251016T150000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500331@pgc.unige.ch
+DTSTART:20251023T131500Z
+DTEND:20251023T150000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500332@pgc.unige.ch
+DTSTART:20251030T141500Z
+DTEND:20251030T160000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500333@pgc.unige.ch
+DTSTART:20251106T141500Z
+DTEND:20251106T160000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500334@pgc.unige.ch
+DTSTART:20251113T141500Z
+DTEND:20251113T160000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271095-500328@pgc.unige.ch
+DTSTART:20251002T131500Z
+DTEND:20251002T150000Z
+SUMMARY:Principes de fonctionnement des ordinateurs - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X006\n\nEn
+ seignant-es: Jonas Latt
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280071@pgc.unige.ch
+DTSTART:20260323T151500Z
+DTEND:20260323T170000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280072@pgc.unige.ch
+DTSTART:20260330T141500Z
+DTEND:20260330T160000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280073@pgc.unige.ch
+DTSTART:20260413T141500Z
+DTEND:20260413T160000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280074@pgc.unige.ch
+DTSTART:20260420T141500Z
+DTEND:20260420T160000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280075@pgc.unige.ch
+DTSTART:20260427T141500Z
+DTEND:20260427T160000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280076@pgc.unige.ch
+DTSTART:20260504T141500Z
+DTEND:20260504T160000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280070@pgc.unige.ch
+DTSTART:20260316T151500Z
+DTEND:20260316T170000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280078@pgc.unige.ch
+DTSTART:20260518T141500Z
+DTEND:20260518T160000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280066@pgc.unige.ch
+DTSTART:20260216T151500Z
+DTEND:20260216T170000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280067@pgc.unige.ch
+DTSTART:20260223T151500Z
+DTEND:20260223T170000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280068@pgc.unige.ch
+DTSTART:20260302T151500Z
+DTEND:20260302T170000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280069@pgc.unige.ch
+DTSTART:20260309T151500Z
+DTEND:20260309T170000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274962-280077@pgc.unige.ch
+DTSTART:20260511T141500Z
+DTEND:20260511T160000Z
+SUMMARY:Bases de données - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200025\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271089-360587@pgc.unige.ch
+DTSTART:20250925T141500Z
+DTEND:20250925T160000Z
+SUMMARY:Introduction à la programmation - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: -
+LOCATION:M R380 - A. Jaccard Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271089-360588@pgc.unige.ch
+DTSTART:20251002T141500Z
+DTEND:20251002T160000Z
+SUMMARY:Introduction à la programmation - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: -
+LOCATION:M R380 - A. Jaccard Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271089-360589@pgc.unige.ch
+DTSTART:20251009T141500Z
+DTEND:20251009T160000Z
+SUMMARY:Introduction à la programmation - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: -
+LOCATION:M R380 - A. Jaccard Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271089-360590@pgc.unige.ch
+DTSTART:20251016T141500Z
+DTEND:20251016T160000Z
+SUMMARY:Introduction à la programmation - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: -
+LOCATION:M R380 - A. Jaccard Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271089-360591@pgc.unige.ch
+DTSTART:20251023T141500Z
+DTEND:20251023T160000Z
+SUMMARY:Introduction à la programmation - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: -
+LOCATION:M R380 - A. Jaccard Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271089-360592@pgc.unige.ch
+DTSTART:20251030T151500Z
+DTEND:20251030T170000Z
+SUMMARY:Introduction à la programmation - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: -
+LOCATION:M R380 - A. Jaccard Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271089-360593@pgc.unige.ch
+DTSTART:20251113T151500Z
+DTEND:20251113T170000Z
+SUMMARY:Introduction à la programmation - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: -
+LOCATION:M R380 - A. Jaccard Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271089-360594@pgc.unige.ch
+DTSTART:20251204T151500Z
+DTEND:20251204T170000Z
+SUMMARY:Introduction à la programmation - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: -
+LOCATION:M R380 - A. Jaccard Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271089-360586@pgc.unige.ch
+DTSTART:20250918T141500Z
+DTEND:20250918T160000Z
+SUMMARY:Introduction à la programmation - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: -
+LOCATION:M R380 - A. Jaccard Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271088-360574@pgc.unige.ch
+DTSTART:20251216T151500Z
+DTEND:20251216T170000Z
+SUMMARY:Introduction à la programmation - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: Laurent Moccozet
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271088-360573@pgc.unige.ch
+DTSTART:20251209T151500Z
+DTEND:20251209T170000Z
+SUMMARY:Introduction à la programmation - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: Laurent Moccozet
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271088-360572@pgc.unige.ch
+DTSTART:20251202T151500Z
+DTEND:20251202T170000Z
+SUMMARY:Introduction à la programmation - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: Laurent Moccozet
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271088-360571@pgc.unige.ch
+DTSTART:20251111T151500Z
+DTEND:20251111T170000Z
+SUMMARY:Introduction à la programmation - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: Laurent Moccozet
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271088-360570@pgc.unige.ch
+DTSTART:20251028T151500Z
+DTEND:20251028T170000Z
+SUMMARY:Introduction à la programmation - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: Laurent Moccozet
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271088-360569@pgc.unige.ch
+DTSTART:20251021T141500Z
+DTEND:20251021T160000Z
+SUMMARY:Introduction à la programmation - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: Laurent Moccozet
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271088-360568@pgc.unige.ch
+DTSTART:20251014T141500Z
+DTEND:20251014T160000Z
+SUMMARY:Introduction à la programmation - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: Laurent Moccozet
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271089-360595@pgc.unige.ch
+DTSTART:20251211T151500Z
+DTEND:20251211T170000Z
+SUMMARY:Introduction à la programmation - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: -
+LOCATION:M R380 - A. Jaccard Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271088-360566@pgc.unige.ch
+DTSTART:20250930T141500Z
+DTEND:20250930T160000Z
+SUMMARY:Introduction à la programmation - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: Laurent Moccozet
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271088-360565@pgc.unige.ch
+DTSTART:20250923T141500Z
+DTEND:20250923T160000Z
+SUMMARY:Introduction à la programmation - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: Laurent Moccozet
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271088-360564@pgc.unige.ch
+DTSTART:20250916T141500Z
+DTEND:20250916T160000Z
+SUMMARY:Introduction à la programmation - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: Laurent Moccozet
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271089-360596@pgc.unige.ch
+DTSTART:20251218T151500Z
+DTEND:20251218T170000Z
+SUMMARY:Introduction à la programmation - Séminaire
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: -
+LOCATION:M R380 - A. Jaccard Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271088-360567@pgc.unige.ch
+DTSTART:20251007T141500Z
+DTEND:20251007T160000Z
+SUMMARY:Introduction à la programmation - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-S104010\n\nE
+ nseignant-es: Laurent Moccozet
+LOCATION:M R080 - E.Boninchi Uni-Mail
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498588@pgc.unige.ch
+DTSTART:20260520T141500Z
+DTEND:20260520T160000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498589@pgc.unige.ch
+DTSTART:20260527T141500Z
+DTEND:20260527T160000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498587@pgc.unige.ch
+DTSTART:20260513T141500Z
+DTEND:20260513T160000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498586@pgc.unige.ch
+DTSTART:20260506T141500Z
+DTEND:20260506T160000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498585@pgc.unige.ch
+DTSTART:20260429T141500Z
+DTEND:20260429T160000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498584@pgc.unige.ch
+DTSTART:20260415T141500Z
+DTEND:20260415T160000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498583@pgc.unige.ch
+DTSTART:20260408T141500Z
+DTEND:20260408T160000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498582@pgc.unige.ch
+DTSTART:20260401T141500Z
+DTEND:20260401T160000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498581@pgc.unige.ch
+DTSTART:20260325T151500Z
+DTEND:20260325T170000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498580@pgc.unige.ch
+DTSTART:20260318T151500Z
+DTEND:20260318T170000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498579@pgc.unige.ch
+DTSTART:20260311T151500Z
+DTEND:20260311T170000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498578@pgc.unige.ch
+DTSTART:20260304T151500Z
+DTEND:20260304T170000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498577@pgc.unige.ch
+DTSTART:20260225T151500Z
+DTEND:20260225T170000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:274964-498576@pgc.unige.ch
+DTSTART:20260218T151500Z
+DTEND:20260218T170000Z
+SUMMARY:Logiciels et réseaux informatiques - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-11X004\n\nEn
+ seignant-es: Eduardo Solana
+LOCATION: A150 - P.-F. Tingry  SCII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084439Z
+UID:271086-504816@pgc.unige.ch
+DTSTART:20250915T141500Z
+DTEND:20250915T160000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504817@pgc.unige.ch
+DTSTART:20250922T141500Z
+DTEND:20250922T160000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504818@pgc.unige.ch
+DTSTART:20250929T141500Z
+DTEND:20250929T160000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504819@pgc.unige.ch
+DTSTART:20251006T141500Z
+DTEND:20251006T160000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504820@pgc.unige.ch
+DTSTART:20251013T141500Z
+DTEND:20251013T160000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504821@pgc.unige.ch
+DTSTART:20251020T141500Z
+DTEND:20251020T160000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504829@pgc.unige.ch
+DTSTART:20251215T151500Z
+DTEND:20251215T170000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504823@pgc.unige.ch
+DTSTART:20251103T151500Z
+DTEND:20251103T170000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504824@pgc.unige.ch
+DTSTART:20251110T151500Z
+DTEND:20251110T170000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504825@pgc.unige.ch
+DTSTART:20251117T151500Z
+DTEND:20251117T170000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504826@pgc.unige.ch
+DTSTART:20251124T151500Z
+DTEND:20251124T170000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504827@pgc.unige.ch
+DTSTART:20251201T151500Z
+DTEND:20251201T170000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504828@pgc.unige.ch
+DTSTART:20251208T151500Z
+DTEND:20251208T170000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T084440Z
+UID:271086-504822@pgc.unige.ch
+DTSTART:20251027T151500Z
+DTEND:20251027T170000Z
+SUMMARY:Modélisation des systèmes d'information et des services - Cours
+DESCRIPTION:https://pgc.unige.ch/main/teachings/details/2025-D200019\n\nE
+ nseignant-es: Jolita Ralyte
+LOCATION:BA salle RDC Battelle A
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

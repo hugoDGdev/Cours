@@ -1,0 +1,36 @@
+,,,,,
+festivals,idFest,nom,lieu,,
+,1,RockWave 25,Parc des Nations,,
+,2,ChansonFest,Théâtre antique,,
+,3,WorldMusic,Esplanade du Lac,,
+,4,ElectroNight,Palais Expo,,
+,5,SummerSongs,Place du Village,,
+,,,,,
+artistes,idArtiste,nom,contact,genres,pays
+,1,The Sunlights,sunlights@mail.com,Rock; Pop,Royaume-Uni
+,2,DJ Aurora,aurora.dj@mail.com,Electro; House ; Techno,Allemagne
+,3,Les Etoiles,etoiles@mail.com,Chanson ; Pop,France
+,4,Samba Nova,sambanova@mail.com,Samba ; Bossa,Brésil
+,5,Kyoto Strings,kyoto.strings@mail.com,Classique ; Jazz,Japon
+,6,Bella Canto,bellacanto@mail.com,Opéra ; Classique,Italie
+,7,Urban Vibes,urbanvibes@mail.com,Rap ; Hip-Hop,USA
+,8,ElectroPulse,electropulse@mail.com,Electro ; DnB,Suisse
+,9,Desert Sounds,desertsounds@mail.com,World ; Folk ; Fusion,Maroc
+,10,Northern Lights,northern.lights@mail.com,Indie Rock ; Folk,Suède
+,11,Blue Velvet,bvelvet@mail.com,Pop ; Country,USA
+,,,,,
+gigs,id,artiste,cachet,festival,
+,1,1,15000,1,
+,2,2,12000,1,
+,3,3,9000,2,
+,4,4,10000,3,
+,5,2,12000,4,
+,6,5,18000,3,
+,7,6,20000,2,
+,8,7,14000,1,
+,9,8,8500,4,
+,10,9,11000,3,
+,11,3,10000,5,
+,12,10,13000,1,
+,13,11,9500,5,
+,14,3,8000,3,

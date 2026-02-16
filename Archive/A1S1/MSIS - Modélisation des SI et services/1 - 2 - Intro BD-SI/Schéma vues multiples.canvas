@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"56fc4cd16c373754","x":-140,"y":-80,"width":250,"height":60,"type":"text","text":"SI GESTION SOCIETE TRANSPORT"},
+		{"id":"2e2cc61a64282399","x":-140,"y":60,"width":250,"height":60,"type":"text","text":"Chauffeur"},
+		{"id":"901ff0f9cc2c3119","x":-140,"y":120,"width":250,"height":160,"type":"text","text":"Lire: \n\t- Affectations\n\t- Infos perso\nCréer :\n\t- Demande congé"},
+		{"id":"2daef1973a8db535","x":-480,"y":-250,"width":250,"height":60,"type":"text","text":"Responsable planning"},
+		{"id":"547cc18e5436e1e1","x":-480,"y":-190,"width":250,"height":250,"type":"text","text":"Créer : \n\t- Nouv. affectations\nLire : \n\t- Infos lignes\n\t- dispo chauffeurs\n\t- dispos véhicules\n\t- infos affectations\nModifier : \n\t- Affectations"},
+		{"id":"e42bbbfef667871e","x":220,"y":-310,"width":250,"height":60,"type":"text","text":"Responsable réseau"},
+		{"id":"c1e441eaa7ea73c9","x":220,"y":-250,"width":250,"height":170,"type":"text","text":"Lire : \n\t- Infos lignes\nCréer : \n\t- Nouvelle ligne\nModifier : \n\t - Description lignes..."}
+	],
+	"edges":[
+		{"id":"cc1c237dfbd93cbe","fromNode":"2daef1973a8db535","fromSide":"bottom","toNode":"56fc4cd16c373754","toSide":"left"},
+		{"id":"f56d783960f439aa","fromNode":"e42bbbfef667871e","fromSide":"bottom","toNode":"56fc4cd16c373754","toSide":"right"},
+		{"id":"2d6e63d1014ce399","fromNode":"2e2cc61a64282399","fromSide":"top","toNode":"56fc4cd16c373754","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,7 @@
+windows = 32%
+mac = 46%
+linux = 4%
+Chromebook = 1%
+ipad = 16%
+androïd = 1%
+autre = 1%

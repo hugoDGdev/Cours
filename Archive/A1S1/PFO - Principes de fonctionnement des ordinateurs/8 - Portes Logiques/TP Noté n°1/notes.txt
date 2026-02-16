@@ -1,0 +1,1 @@
+4) le deuxième circuit est une version simplifiée du circuit 1, ils ont les mêmes résultats. Mais étant donné que l'on a mis un "!" devant le circuit 2, puis que pour construire le circuit 3, on a relié le circuit 1 et !2 par un connecteur "ET", il n'y a forcément QUE des 0 en sortie 
